@@ -125,7 +125,7 @@ This is essentially the same as an internal network, except that your host compu
  
 You can create a host-only network by select File > Host Network Manager
 
-<img src="">
+<img src="Folder/Host-Only-Network-Adapters.jpg">
  
 
 <h2>Generic Driver</h2>
@@ -142,7 +142,7 @@ This will create a new NAT Network. If I want to modify the subnet, disable DHCP
 I am going to leave all of these options at default... so I am done creating the Virtual Network!
 Configure the Networking tab for your chosen network type. Again, the easiest solution is to create and use a NAT Network.
 
- 
+ <img src="">
 
 <h2>Downloading Your operating systems ISO(s)</h2>
 Next we need an operating system (OS) to install on our Virtual Machines. You could do this with a physical disc if you wanted, but most of the time you will want to download an ISO for OS installations.

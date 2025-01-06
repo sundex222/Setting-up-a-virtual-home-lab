@@ -19,6 +19,11 @@ Let's dive in!
 
 <h2>Virtualization Overview</h2>
 Virtualization: What's behind the concept? In simple terms, virtualization is a technology that allows you to create a simulated computer environment. This is achieved through a Virtual Machine (VM), which enables you to run a complete computer system as a self-contained application on your existing computer.
+
+
+<img src="Folder/Attach-an-ISO.jpg">
+
+
  
 On the image below - the top computer would be the host computer. The three computers below the host are referred to as guest virtual machines.
  

@@ -146,7 +146,7 @@ I am going to leave all of these options at default... so I am done creating the
 Configure the Networking tab for your chosen network type. Again, the easiest solution is to create and use a NAT Network.
 
 
-<img src="">
+<img src="Folder/VM-Network.jpg">
  
 
 <h2>Downloading Your operating systems ISO(s)</h2>
@@ -168,6 +168,9 @@ Kali Linux
 Once you have downloaded your ISO file, it's time to mount it to your VM in VirtualBox. Mounting a VM is essentially like virtually inserting a disc into a DVD drive of a computer.
  
 Right click on your VM and select settings then open the Storage tab. From there click the Empty disc icon, then again the disc icon under Attributes on the right hand side of the window. Click the Choose Virtual Optical Disk File... and browse to and open your desired ISO.
+
+
+<img scr="">
  
 
 Click OK and now when we launch the VM you will be able to begin your OS installation.

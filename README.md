@@ -21,7 +21,7 @@ Let's dive in!
 Virtualization: What's behind the concept? In simple terms, virtualization is a technology that allows you to create a simulated computer environment. This is achieved through a Virtual Machine (VM), which enables you to run a complete computer system as a self-contained application on your existing computer.
 
 
-<img src="Folder/Attach-an-ISO.jpg">
+<img src="Folder/virtual machine.PNG">
 
 
  
@@ -40,6 +40,8 @@ In this setup I will be using Oracle VM VirtualBox because it is compatible with
  
 <h2>Downloading and Installing VirtualBox</h2>
 Download Oracle VM VirtualBox by clicking here. Once the download completes, I launched the installation.
+
+
  
 I Proceeded through the installation using all of the default options. Any prompts that are a yes/no you need to select "yes'.
  
